@@ -1,0 +1,11 @@
+1 0
+1000100101
+qinit, 1, qinit, 1, >
+qinit, 0, qinit, 0, >
+qinit, #, pass, #, <
+pass, 1, pass, 1, <
+pass, 0, pass, 0, <
+pass, #, neg, #, >
+neg, 1, neg, 0, >
+neg, 0, neg, 1, >
+neg, #, fin, #, >
